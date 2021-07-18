@@ -5,10 +5,11 @@
     android:layout_height="match_parent"
     tools:context=".Frag3">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:gravity="center"
+        android:text="আমার ৭০ আর তোমার ৩০ মিলে ১০০ হয়ে যাবে,এবং কাজটি ভালোভাবে সম্পন্ন হবে । যদি সফল হও তবে তোমার জন্য রয়েছে চ্যালেঞ্জ ।Readme.md তে দেখো"
+        android:textColor="@color/teal_200"/>
 
 </FrameLayout>
